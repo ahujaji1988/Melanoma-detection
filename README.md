@@ -1,1 +1,56 @@
-# Melanoma-detection
+# Melanoma Detection
+> Brief 
+The project target to provide a solution that can evaluate images and alert the dermatologists about presence of melanoma, there by potentially reducing the manual effort needed in diagnosis. The solution will be a CNN based model that will be trained to predict class of disease based on input.
+
+
+## General Information
+- 
+The project aims to provide a quick turn around time for detection of Melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. The approach is to reduce the detection time by training a CNN to classify the nine type of cancer disease from respective image samples.
+ 
+- What is the dataset that is being used?
+The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC.
+
+The data set contains the following diseases:
+
+Actinic keratosis
+Basal cell carcinoma
+Dermatofibroma
+Melanoma
+Nevus
+Pigmented benign keratosis
+Seborrheic keratosis
+Squamous cell carcinoma
+Vascular lesion
+
+## Conclusions
+- Conclusion 1 from the analysis
+- Conclusion 2 from the analysis
+- Conclusion 3 from the analysis
+- Conclusion 4 from the analysis
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
+## Technologies Used
+- library - version 1.0
+- library - version 2.0
+- library - version 3.0
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- References if any...
+- This project was based on [this tutorial](https://www.example.com).
+
+
+## Contact
+Created by [@githubusername] - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
